@@ -9,11 +9,10 @@ It will follow classical four step modelling with step-by-step tutorial using Yo
  
 The tutorial will cover the following topics, each of them using Jupyter notebooks and hands-on exercises with real-world data:
 
-1. 
-2. 
-3. 
-4. 
-5. 
+1. Preprocessing
+2. Imputation of data
+3. Process Algorithm
+4. Validation test and viz
 
 
 ## Installation notes
