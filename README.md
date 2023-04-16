@@ -33,10 +33,8 @@ following commands:
 # setting the configuation so all packages come from the conda-forge channel
 conda config --add channels conda-forge
 conda config --set channel_priority strict
-# navigate to the downloaded (or git cloned) material
-cd .../geopandas-tutorial/
 # creating the environment
-conda env create --name traffix-tutorial traffix
+conda create --name traffix-tutorial traffix openpyxl
 # activating the environment
 conda activate traffix-tutorial
 ```
