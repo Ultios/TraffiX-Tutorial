@@ -45,6 +45,6 @@ use ``pip``, as long as you have the above packages installed. In that case,
 we refer to the installation instructions of the individual packages (note:
 this won't work on Windows out of the box).
 
-**Want to try out without installing anything?** You can use the "launch binder" link above at the top of this README, which will launch a notebook instance on Binder with all required libraries installed.
+**Want to try out without installing anything?** You can use the "launch binder" link above at the top of this README, which will launch a notebook instance on Binder with all required libraries installed. (This feature is currently on hold as environment required by TraffiX required a large resources.)
 
 This repo is inspired and adapted from Joris Van Den Bossche's geopandas-tutorial.
