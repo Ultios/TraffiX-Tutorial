@@ -4,7 +4,7 @@
 
 ## Tutorial on macroscopic four step traffic modelling with Python
 
-This tutorial is an introduction to traffic modelling in Python, with a focus on getting first hand experience on different libraries used for macroscopic traffic modelling. The street network data is provided by OpenStreetMap using osmnX and is manipulated using NetworkX and GeoPandas. Visualizations of the model used MatPlotLib.
+This tutorial is an introduction to traffic modelling in Python, with a focus on getting first hand experience on different libraries used for macroscopic traffic modelling. The street network data is provided by OpenStreetMap using OSMnx and is manipulated using NetworkX and GeoPandas. Visualizations of the model used MatPlotLib.
 It will follow classical four step modelling with step-by-step tutorial using Yogyakarta City as study cases.
  
 The tutorial will cover the following topics, each of them using Jupyter notebooks and hands-on exercises with real-world data:
